@@ -16,3 +16,4 @@ const open = document.querySelector('.containerr');
 		close.addEventListener('click', () => {
 			tl.reverse();
 		});
+		
