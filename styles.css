@@ -43,7 +43,7 @@ body {
 
 @media (max-width: 740px){
   .container .row .neons h1{
-    font-size:10vw;
+    font-size:7vw;
     margin-bottom: 10%;
   }
 }
