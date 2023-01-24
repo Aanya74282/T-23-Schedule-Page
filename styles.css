@@ -1,5 +1,4 @@
-/* @import url('https://fonts.googleapis.com/css2?family=Neucha&display=swap'); */
-
+@import url('https://fonts.googleapis.com/css?family=Codystar:300&display=swap');
 * {
   margin: 0;
   padding: 0;
@@ -24,17 +23,15 @@ body {
 
 /* HEADING */
 
-@import url('https://fonts.googleapis.com/css?family=Codystar:300&display=swap');
 
 .neons {
-  /* font-family: codystar; */
+   font-family: codystar; 
    margin-top: 1rem;
    margin-bottom: 2rem;
    text-align: center;
 }
 
 .neons h1 {
-  font-family: codystar;
   font-size: 5rem;
   text-align: center;
    font-weight: bold;
