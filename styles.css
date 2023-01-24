@@ -42,8 +42,8 @@ body {
 }
 
 @media (max-width: 740px){
-  .neons h1{
-    font-size: 4rem;
+  .container .row .neons h1{
+    font-size:10vw;
     margin-bottom: 10%;
   }
 }
