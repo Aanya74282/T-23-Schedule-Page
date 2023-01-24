@@ -356,6 +356,12 @@ img {
   ;
 }
 
+@media (max-width: 740px){
+  .ag-timeline_title-box p {
+    font-size:6vw;
+  }
+}
+
 .ag-timeline-card_meta-box {
   display: inline-block;
 }
