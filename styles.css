@@ -234,7 +234,8 @@ img {
 }
 
 .ag-format-container {
-  width: 1160px;
+  width: 1000px;
+  height: 100%;
   margin: 0 auto;
 
   position: relative;
