@@ -132,6 +132,9 @@ nav ul li a{
 	opacity: 0;
 	pointer-events: none;
 }
+nav ul li a:hover{
+  text-decoration: none;
+}
 
 nav ul li a:after{
 	content: '';
