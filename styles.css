@@ -475,6 +475,7 @@ img {
   text-align: justify;
   font-size: 16px;
   color: #fff;
+  font-family: 'Neucha', cursive;
 }
 
 @media only screen and (max-width: 979px) {
@@ -596,6 +597,7 @@ img {
 }
 
 .tag {
+  font-family: 'ESL Legend', sans-serif;
   background: #eee;
   border-radius: 3px 0 0 3px;
   color: #400d51;
