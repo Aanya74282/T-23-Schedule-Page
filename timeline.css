@@ -17,6 +17,7 @@ body {
   overflow-x: hidden;
   min-height: 100vh;
   font-family: sans-serif;
+  padding: 40px;
   /* border:20px solid green; */
 }
 
